@@ -61,7 +61,7 @@ I'm currently working on integrating **bulk RNA-seq data** with **single-cell da
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="malnito:rubadevis2003@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20me%20a%20line-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:rubadevis2003@gmail.com"><img src="https://img.shields.io/badge/Email-Drop%20me%20a%20line-blue?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/ruba-devi-s08072003"><img src="https://img.shields.io/badge/LinkedIn-View%20Profile-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
   
