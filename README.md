@@ -45,7 +45,7 @@ I'm currently working on integrating **bulk RNA-seq data** with **single-cell da
 | Project | Description | Tech |
 |--------|-------------|------|
 | 📊 **Bulk RNA-Seq Pipeline** | A reproducible RNA-seq pipeline for PBMC vs Serum comparison across dengue infection datasets. | STAR, DESeq2, R |
-| 🔍 **Mutation Annotation Workflow** | GFF3-based VEP pipeline for plant and viral genomes for mutation significance annotation. | VEP, SnpEff, GFF3 |
+| 🔍 **Mutation Workflow** | Mutation analysis in plant genome. | VEP, SnpEff|
 
 ---
 
